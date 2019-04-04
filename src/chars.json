@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Leonidas I",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/bf/Leonidasnew2.png/revision/latest?cb=20180406084712",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Cú Chulainn",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d3/Cuprototype3.png/revision/latest?cb=20170207181510",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Li Shuwen",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/58/Shuwen2.png/revision/latest?cb=20160331040018",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Cleopatra",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/70/CleopatraStage3.png/revision/latest?cb=20171206160054",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Fūma Kotarō",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/32/Kotarou3.png/revision/latest?cb=20170204130402",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Sasaki Kojirō",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/Kojironew2.png/revision/latest?cb=20180406084507",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Siegfried",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Siegfried2.png/revision/latest?cb=20170206152047",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Arthur Pendragon",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Arthur3.png/revision/latest?cb=20171206153328",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Lanling Wang",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cc/LanlingWangStage02.png/revision/latest?cb=20181128024934",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Ivan the Terrible",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Ivanport3.png/revision/latest?cb=20180411104147",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Ozymandias",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0f/Ozyman3.png/revision/latest?cb=20160725180414",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Arash",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/00/Arashnew3.png/revision/latest?cb=20180406083258",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Chiron",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Chironport3.png/revision/latest?cb=20180429131948",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Lu Bu Fengxian",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/75/LuBu3.png/revision/latest?cb=20170208170231",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Darius III",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Darius2.png/revision/latest?cb=20170208175401",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Spartacus",
+    "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/90/Spartacusnew2.png/revision/latest?cb=20180406090819",
+    "clicked": false
+  }
+]
